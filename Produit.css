@@ -1,0 +1,10 @@
+h1{
+    color: rgb(228, 213, 0);
+    font-family: 'Sixtyfour', sans-serif;
+    font-size: 100px;
+    border: 10px solid rgb(255, 0, 0);
+    border-radius: 5px;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
